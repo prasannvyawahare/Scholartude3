@@ -1,0 +1,21 @@
+<LinearLayout android:layout_height="wrap_content"
+    android:layout_width="280dp"
+    android:orientation="vertical"
+    android:background="#80000000"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/fab_margin"
+        android:scaleX="2"
+        android:scaleY="2"
+        android:src="@mipmap/ic_logo" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:text="@string/scholartude"/>
+</LinearLayout>

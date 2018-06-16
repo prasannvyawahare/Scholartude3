@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Scholartude</string>
+    <string name="login">Sing Up</string>
+    <string name="contentDescription">logo</string>
+    <string name="name">Your Name</string>
+    <string name="mobailno">Your Mobail No</string>
+    <string name="welcome">WELCOME</string>
+    <string name="sinin">SIN IN</string>
+    <string name="sinup">SIN UP</string>
+    <string name="detail">ENTER YOUR MOBILE NUMBER / EMAIL-ID</string>
+    <string name="password">PASSWORD</string>
+    <string name="otp">VERIFY USING OTP</string>
+    <string name="submit">SUBMIT</string>
+    <string name="or">OR</string>
+    <string name="scholartude">SCHOLARTUDE</string>
+    <string name="entername">ENTER USER NAME</string>
+    <string name="enterpd">ENTER MOBILE NUMBER</string>
+    <string name="forgetpd">Forgot Password</string>
+    <string name="forget">Forgot Password?</string>
+    <string name="emailadress">Your Email</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dash_board">DashBoardActivity</string>
+
+</resources>
